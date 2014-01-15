@@ -41,3 +41,6 @@ Author
 +	[http://www.arnodo.net](http://www.arnodo.net)
 
 +	<mailto:alessandro@arnodo.net>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/domtancredi/codeigniter-html5boilerplate-twitter-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
